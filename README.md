@@ -6,11 +6,14 @@ This is an extended version of the Berkeley Segmentation Benchmark, available [h
         Contour detection and hierarchical image segmentation.
         Transactions on Pattern Analysis and Machine Intelligence, volume 33, number 5, pages 898–916, 2011.
 
-The extended version was implemented in the course of the following bachelor thesis:
+The extended version was implemented in the course of the following work:
 
     [2] D. Stutz, A. Hermans, B. Leibe.
         Superpixel Segmentation using Depth Information.
         Bachelor thesis, RWTH Aachen University, Aachen, Germany, 2014.
+	[7] D. Stutz.
+		Superpixel Segmentation: An Evaluation.
+		Pattern Recognition (J. Gall, P. Gehler, B. Leibe (Eds.)), Lecture Notes in Computer Science, vol. 9358, pages 555 - 562, 2015.
 
 When using this benchmark, please cite [1] and [2]. Additional information can also be found on [http://davidstutz.de](http://davidstutz.de).
 
