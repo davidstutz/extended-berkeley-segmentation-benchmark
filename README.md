@@ -1,5 +1,7 @@
 # Extended Berkeley Segmentation Benchmark
 
+**A more comprehensive benchmark can now be found at [davidstutz/superpixel-benchmark](https://github.com/davidstutz/superpixel-benchmark).**
+
 This is an extended version of the Berkeley Segmentation Benchmark, available [here](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html) and introduced in [1], used to assess superpixel algorithms.
 
     [1] P. Arbeláez, M. Maire, C. Fowlkes, J. Malik.
