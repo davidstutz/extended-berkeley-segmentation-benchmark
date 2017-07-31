@@ -22,6 +22,9 @@
 addpath benchmarks
 clear all;close all;clc;
 
+% Create root directory for output results 
+mkdir('tests');
+
 %% 1. Test all the benchmarks for results stored in 'ucm2' format:
 
 imgDir = 'data/BSDS500/images';
