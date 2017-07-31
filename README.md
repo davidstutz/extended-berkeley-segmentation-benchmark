@@ -30,6 +30,10 @@ To compile the benchmark on 32-but/64-bit Linux follow the instructions found in
 > This script should compile the correspondPixels mex file and copy it into the 
 > ../benchmarks/ directory.
 
+## Running benchmark
+To run bench mark from project root run:
+>    source ./run.sh
+
 ## Measures and Usage
 
 The original benchmark already includes the following measures:

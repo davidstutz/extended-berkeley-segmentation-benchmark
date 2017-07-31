@@ -7,7 +7,7 @@ if nargin<2, col = 'r'; end
 fwrite(2,sprintf('\n%s\n',evalDir));
 
 if exist(fullfile(evalDir,'eval_bdry_thr.txt'),'file'),
-    open('isoF.fig');
+    figure(1)
     hold on
     prvals = dlmread(fullfile(evalDir,'eval_bdry_thr.txt')); % thresh,r,p,f
     f=find(prvals(:,2)>=0.01);
