@@ -2,6 +2,8 @@
 
 **A more comprehensive benchmark can now be found at [davidstutz/superpixel-benchmark](https://github.com/davidstutz/superpixel-benchmark).**
 
+**Update: MatLab R2017a introduced a function `groundTruth` with clashes with some variable names and the field names of the ground truth `.mat` files, see [#1](https://github.com/davidstutz/extended-berkeley-segmentation-benchmark/issues/1).**
+
 This is an extended version of the Berkeley Segmentation Benchmark, available [here](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html) and introduced in [1], used to assess superpixel algorithms.
 
     [1] P. Arbeláez, M. Maire, C. Fowlkes, J. Malik.
